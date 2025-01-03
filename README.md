@@ -1,6 +1,4 @@
-# Excel Projects
-
-#  1. Retail Purchases Project
+#  Retail Purchases Project
 ## Introduction
 The analysis is showing  a brief insight on the total purchase made by customers over a period of time 
 ## Aim
